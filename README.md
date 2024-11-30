@@ -2,7 +2,6 @@
 
 A modern web application that combines the power of Google's Gemini AI with PDF document analysis, allowing users to chat with their documents and get intelligent responses.
 
-![AI Chat Assistant Demo](https://images.unsplash.com/photo-1700729471341-0b5123e7c5f1?q=80&w=2940&fit=crop)
 
 ## ✨ Features
 
